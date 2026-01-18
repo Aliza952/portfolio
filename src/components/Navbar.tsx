@@ -85,9 +85,6 @@ const Navbar = () => {
                   {link.name}
                 </a>
               ))}
-              <Button variant="heroOutline" size="sm" className="mt-2">
-                Resume
-              </Button>
             </div>
           </motion.div>
         )}
